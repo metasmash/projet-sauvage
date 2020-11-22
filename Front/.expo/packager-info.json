@@ -2,5 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 15080
+  "packagerPid": 15080,
+  "expoServerNgrokUrl": "https://dx-5dt.metasmash.front.exp.direct",
+  "packagerNgrokUrl": "https://packager.dx-5dt.metasmash.front.exp.direct",
+  "ngrokPid": 22168
 }
